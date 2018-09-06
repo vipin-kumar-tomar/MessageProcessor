@@ -1,0 +1,14 @@
+{
+   "message": {
+    "range": 51,
+    "saleBeforeAdjustCount":5
+  },
+  "product": {
+    "priceRangeStart": 1,
+    "priceRangeEnd": 100,
+    "quanityRangeStart": 1,
+    "quanityRangeEnd": 20,
+    "adjustmentPriceStart":10,
+    "adjustmentPriceEnd":10
+  }
+}
